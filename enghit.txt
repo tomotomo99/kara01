@@ -1,23 +1,2 @@
-# ============================================================
-#  hothit.txt  -  รายการเพลงฮิต (แท็บ HOT HIT)
-# ============================================================
-#  วิธีใช้
-#   1. แก้ไขไฟล์นี้ตามรายการเพลงที่ต้องการ
-#   2. วางไฟล์ไว้ที่ web root ของเซิร์ฟเวอร์ LangitKTV บนเครื่อง KTV
-#      ให้เปิดได้ที่  http://<IP ของเครื่อง KTV>:14619/hothit.txt
-#   3. เปิดแอป > HOT HIT > แท็บ HOT HIT  (แคชมีอายุ 5 นาที)
-#
-#  รูปแบบบรรทัด:   ชื่อเพลง|ศิลปิน|path ของไฟล์
-#    - คั่นด้วยเครื่องหมาย | 3 ส่วน
-#    - บรรทัดที่ขึ้นต้นด้วย # คือคอมเมนต์ (ไม่แสดง)
-#    - บรรทัดว่างจะถูกข้าม
-#    - ไฟล์ต้องเป็น UTF-8 (ไม่ต้องมี BOM)
-#
-#  ค่า path ต้องเป็นค่าเดียวกับที่เซิร์ฟเวอร์ KTV ใช้
-#  ดูได้จากหน้าแรกของแอป: กดปุ่ม + ท้ายชื่อเพลง > TAMBAH KE PLAYLIST
-#  แล้วดูที่หน้า PLAYLIST
-# ============================================================
-
-# ตัวอย่าง - ลบบรรทัดตัวอย่างออกแล้วใส่เพลงจริงของคุณ
-In My Feelings|Drake|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E40050.avi
-คืนที่ดาวเต็มฟ้า|ปราโมทย์ วิเลปะนะ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\B\B01039.dat
+Let It Go (Ost. Frozen)|Demi Lovato|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X01088.dat
+This Love|MAROON5|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O01987.dat
