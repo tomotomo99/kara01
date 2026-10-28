@@ -23,6 +23,8 @@ Viva La Vida|Coldplay|K:\DM MV KARAOKE\Song\EASY KARAOKE\05\506533.mp4
 Paradise|Coldplay|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\506334.mp4
 In the End|Linkin Park|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5716.avi
 Numb|Linkin Park|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\P\P01135.dat
+What I've Done|Linkin Park|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04378.avi
+New Divide|Linkin Park|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04377.avi
 It's My Life|Bon Jovi|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\2\20047.dat
 Complicated|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O02190.dat
 Girlfriend|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04517.avi
@@ -124,8 +126,6 @@ Patience|Take That|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\MPG\F\F03465.m
 Domino|Jessie J|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04546.avi
 Price Tag|Jessie J|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4228.avi
 Bang Bang|Jessie J|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\506381.mp4
-What I've Done|Linkin Park|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04378.avi
-New Divide|Linkin Park|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04377.avi
 Bring Me to Life|Evanescence|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04194.dat
 Boulevard of Broken Dreams|Green Day|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O02076.dat
 Wherever You Will Go|The Calling|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O01758.dat
