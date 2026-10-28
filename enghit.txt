@@ -73,6 +73,7 @@ Flowers|Miley Cyrus|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z6679.a
 Break Free|Ariana Grande|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\506386.mp4
 Don't Start Now|Dua Lipa|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1124.avi
 Levitating|Dua Lipa|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4987.avi
+Break My Heart|Dua Lipa|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1233.avi
 Shape of You|Ed Sheeran|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\506430.mp4
 Perfect|Ed Sheeran|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\506335.mp4
 Just the Way You Are|Bruno Mars|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04178.dat
@@ -168,7 +169,6 @@ Come & Get It|Selena Gomez|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\506390.mp4
 Love You Like a Love Song|Selena Gomez|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04295.dat
 One Last Time|Ariana Grande|K:\DM MV KARAOKE\Song\EASY KARAOKE\05\506486.mp4
 God Is a Woman|Ariana Grande|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E40036.avi
-Break My Heart|Dua Lipa|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1233.avi
 Happier|Ed Sheeran|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\506404.mp4
 Bad Habits|Ed Sheeran|K:\DM MV KARAOKE\Song\EASY KARAOKE\04\506442.mp4
 Locked Out of Heaven|Bruno Mars|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\506424.mp4
