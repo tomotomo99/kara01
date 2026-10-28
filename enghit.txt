@@ -28,6 +28,8 @@ New Divide|Linkin Park|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F043
 It's My Life|Bon Jovi|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\2\20047.dat
 Complicated|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O02190.dat
 Girlfriend|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04517.avi
+My Happy Ending|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04201.dat
+When You're Gone|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04518.avi
 All of Me|John Legend|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X01283.dat
 If I Ain't Got You|Alicia Keys|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\P\P01039.dat
 Crazy in Love|Beyonce|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04163.dat
@@ -130,8 +132,6 @@ Bring Me to Life|Evanescence|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\
 Boulevard of Broken Dreams|Green Day|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O02076.dat
 Wherever You Will Go|The Calling|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O01758.dat
 A Thousand Miles|Vanessa Carlton|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J01116.dat
-My Happy Ending|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04201.dat
-When You're Gone|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04518.avi
 Bad Day|Daniel Powter|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04186.dat
 I Won't Give Up|Jason Mraz|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04544.avi
 Girl on Fire|Alicia Keys|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7160.avi
