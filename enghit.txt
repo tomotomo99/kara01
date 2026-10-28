@@ -32,6 +32,7 @@ My Happy Ending|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD
 When You're Gone|Avril Lavigne|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04518.avi
 All of Me|John Legend|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X01283.dat
 If I Ain't Got You|Alicia Keys|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\P\P01039.dat
+Girl on Fire|Alicia Keys|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7160.avi
 Crazy in Love|Beyonce|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04163.dat
 Halo|Beyonce|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04162.dat
 Single Ladies (Put a Ring on It)|Beyonce|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04208.dat
@@ -134,7 +135,6 @@ Wherever You Will Go|The Calling|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\
 A Thousand Miles|Vanessa Carlton|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J01116.dat
 Bad Day|Daniel Powter|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04186.dat
 I Won't Give Up|Jason Mraz|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04544.avi
-Girl on Fire|Alicia Keys|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7160.avi
 Only Girl|Rihanna|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X00614.dat
 With You|Chris Brown|K:\DM MV KARAOKE\Song\EASY KARAOKE\06\506583.mp4
 So Sick|Ne-Yo|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\F\F03197.dat
