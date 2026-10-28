@@ -16,6 +16,7 @@ Hero|Enrique Iglesias|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J0419
 This Love|Maroon 5|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O01987.dat
 She Will Be Loved|Maroon 5|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O01988.dat
 Moves Like Jagger|Maroon 5|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04273.dat
+Makes Me Wonder|Maroon 5|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\F\F03456.dat
 Yellow|Coldplay|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100113.avi
 Fix You|Coldplay|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3432.avi
 Viva La Vida|Coldplay|K:\DM MV KARAOKE\Song\EASY KARAOKE\05\506533.mp4
@@ -123,7 +124,6 @@ Patience|Take That|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\MPG\F\F03465.m
 Domino|Jessie J|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04546.avi
 Price Tag|Jessie J|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4228.avi
 Bang Bang|Jessie J|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\506381.mp4
-Makes Me Wonder|Maroon 5|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\F\F03456.dat
 What I've Done|Linkin Park|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04378.avi
 New Divide|Linkin Park|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\F\F04377.avi
 Bring Me to Life|Evanescence|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04194.dat
