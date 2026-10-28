@@ -12,6 +12,7 @@
 คนที่ฆ่าฉัน|ซิลลี่ ฟูลส์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G000665.dat
 ขี้หึง|ซิลลี่ ฟูลส์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G000592.dat
 วัดใจ|ซิลลี่ ฟูลส์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G003219.dat
+น้ำลาย|ซิลลี่ ฟูลส์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G002006.dat
 จิ๊จ๊ะ|ซิลลี่ ฟูลส์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G001176.dat
 ถ้ารู้อย่างนี้|BIG ASS|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4512.avi
 ความหวังโง่ๆ|BIG ASS|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G000877.dat
@@ -36,6 +37,7 @@
 อะไรก็ยอม|เสก โลโซ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G004104.dat
 ไม่ต้องห่วงฉัน|เสก โลโซ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G005518.dat
 14อีกครั้ง|เสก โลโซ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G000005.dat
+พันธ์ทิพย์|เสก โลโซ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G002434.dat
 สภาวะหัวใจล้มเหลวเฉียบพลัน|Sweet Mullet|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\C\C03078.dat
 เพลงของคนโง่|Sweet Mullet|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G004617.dat
 พลังแสงอาทิตย์|Sweet Mullet|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E41368.avi
@@ -69,8 +71,8 @@ Hello Mama|TAITOSMITH|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X1014
 อยู่ไปไม่มีเธอ|Blackhead|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\Q\Q00428.dat
 ยิ่งโตยิ่งสวย|Blackhead|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\B\B05768.dat
 ยอม|หิน เหล็ก ไฟ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R001559.dat
-สู้(อคูสติค)|หิน เหล็ก ไฟ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\D\D01434.dat
-ศรัทธา(อคูสติค)|หิน เหล็ก ไฟ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\D\D01431.dat
+สู้|หิน เหล็ก ไฟ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R002157.dat
+ศรัทธา|หิน เหล็ก ไฟ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R001998.dat
 ฝาโลง|หิน เหล็ก ไฟ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\C\C03811.dat
 นางแมว|หิน เหล็ก ไฟ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R001130.dat
 เพื่อเธอ(อคูสติค)|หิน เหล็ก ไฟ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\D\D01429.dat
@@ -190,6 +192,8 @@ Event|Season Five|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02926.da
 ใจน้อย|AB Normal|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\5\501976.dat
 เด็กกว่าแล้วไง|AB Normal|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\C\C02978.dat
 ทั้งที่ผิดก็ยังรัก|เอบี นอร์มอล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X01254.dat
+น้ำตาคือคำตอบ|ฟาเรนไฮธ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G001988.dat
+ของของคนอื่น|ฟาเรนไฮธ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G000459.dat
 ปาท่องโก๋|ฟาเรนไฮธ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G002200.dat
 เจ้าหญิง|ฟาเรนไฮธ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G004360.dat
 เงียบทำไม|ฟาเรนไฮธ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G004314.dat
@@ -254,6 +258,8 @@ Event|Season Five|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02926.da
 เลี้ยงส่ง|โซคูล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G004804.dat
 อกหักจากมือถือ|โซคูล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G003830.dat
 ซากอ้อย|โซคูล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G001402.dat
+คนถัดไป|โซคูล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G000662.dat
+ย้อมใจ|โซคูล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G002751.dat
 18ฝน|เสือ ธนพล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R000008.dat
 รักคงยังไม่พอ|เสือ ธนพล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R001677.dat
 กระดาษห่อไฟ|เสือ ธนพล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R000162.dat
@@ -277,6 +283,9 @@ Event|Season Five|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02926.da
 ดอกไม้กับหัวใจ|I-ZAX|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G001443.dat
 เพราะอะไร|I-ZAX|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\D\D00509.dat
 คนรักกัน|I-ZAX|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G000708.dat
+รักคนมีเจ้าของ|ไอน้ำ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R001681.dat
+ที่หนึ่งไม่ไหว|ไอน้ำ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R001073.dat
+รักน้องปีหนึ่ง|ไอน้ำ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\R\R001738.dat
 ก๋วยเตี๋ยวหน้าใสกับใจโทรมๆ|Pancake|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\B\B00880.dat
 ใจเย็น|Pancake|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\B\B00878.dat
 เศษหนึ่งส่วนเกิน|Pancake|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\B\B00876.dat
