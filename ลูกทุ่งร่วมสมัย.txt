@@ -1,11 +1,16 @@
 คู่คอง (ละครนาคี)|ก้อง ห้วยไร่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02840.dat
 ไสว่าสิบ่ถิ่มกัน|ก้อง ห้วยไร่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X01595.dat
-ดอกกระเจียวบาน|ก้อง ห้วยไร่ GMM|K:\DM MV KARAOKE\Song\EASY KARAOKE\07\015718.mp4
+ดอกกระเจียวบาน|ก้อง ห้วยไร่|K:\DM MV KARAOKE\Song\EASY KARAOKE\07\015718.mp4
 โอ้ละน้อ|ก้อง ห้วยไร่+ ปู่จ๋าน ลองไมค์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03139.dat
+สายแนนหัวใจ Ots.นาคี2|ก้อง ห้วยไร่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100082.avi
+บ่อิน|ก้อง ห้วยไร่|K:\DM MV KARAOKE\Song\EASY KARAOKE\05\606299_1.mp4
+วิธีบอกเลิก|ก้อง ห้วยไร่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1300.avi
 เฟสก็หายไลน์ก็เงียบ|เบิ้ล ปทุมราช BPM|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42680.avi
 ให้น้องไปสา|เบิ้ล ปทุมราช|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03525.dat
 กอดครั้งสุดท้าย|เบิ้ล ปทุมราช Feat. ธัญญ่า partymixx|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E40156.avi
 เฮ็ดทุกวิถีทาง|เบิ้ล ปทุมราช อาร์สยาม Feat.ก้อง ห้วยไร่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42861.avi
+อ้ายมีเหตุผล|เบิ้ล ปทุมราช อาร์สยาม|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02019.dat
+ปลายฟ้า|เบิ้ล x แมน ภิสิทธิ์พงษ์ NoEH|K:\DM MV KARAOKE\Song\EASY KARAOKE\06\606378_1.mp4
 ผู้สาวขาเลาะ|ลำใย ไหทองคำ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02996.dat
 ผู้สาวขาเฟี้ยว|ลำไย ไหทองคำ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E41287.avi
 ใจสิเพ|ลำไย ไหทองคำ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101710.avi
@@ -13,14 +18,22 @@
 ยายแล่ม|ลำไย ไหทองคำ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z8504.avi
 เด๋อเดี่ยงด่าง|ลำไย ไหทองคำ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100818.avi
 คำแพง|แซ็ค ชุมแพ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03003.dat
+ร้องไห้ได้ไหม|แซ็ค ชุมแพ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5541.avi
 บ่เป็นหยังเค้าเข้าใจ|กวาง จิรพรรณ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\W\W1054.avi
 มักอ้ายหลายเด้อ|กวาง จิรพรรณ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100469.avi
 ขอบใจเด้อ|ศาล สานศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100854.avi
 ระเบิดเวลา-ละครไทบ้านเดอะซีรี่ย์|ศาล สานศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03717.dat
 บ่รอด (จาลอด)|ศาล สานศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X04151.dat
+ทุกการแจ้งเตือน|ศาล สานศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100451.avi
+คำลาแฟนเก่า|ศาล สานศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z9162.avi
 กอดเสาเถียง|ปรีชา ปัดภัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101306.avi
+แรกตั้งใจฮัก|ปรีชา ปัดภัย.เดอะไทบ้าน2.2|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100398.avi
+ยื้อ|ปรีชา ปัดภัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7461.avi
+น้ำตา|ปรีชา ปัดภัย x กระต่าย พรรณนิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7571.avi
 ทดเวลาบาดเจ็บ|บอย พนมไพร BPM|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E40911.avi
 สเตตัสถืกถิ่ม|บอย พนมไพร BPM|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42013.avi
+ขอโอกาสแหน่เด้อ|บอย พนมไพร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101312.avi
+ขุนช้างฮ้างฮัก|บอย พนมไพร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03057.dat
 บักแตงโม|วงฮันแนว|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100365.avi
 ขี้ยา 2019|เต๊ะ ตระกูลตอ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100607.avi
 ให้เคอรี่มาส่งได้บ่|เบลล์ นิภาดา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101038.avi
@@ -29,6 +42,7 @@
 ขาขาวสาวลำซิ่ง|หญิงลี ศรีจุมพล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\F\F02370.dat
 คาเฟอีน|หญิงลี ศรีจุมพล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5509.avi
 ซักงักงัก | หญิงลี ศรีจุมพล | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1173.avi
+รอสายคนโสด|หญิงลี ศรีจุมพล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E41581.avi
 เต่างอย|จินตหรา พูนลาภ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42563.avi
 น้ำตาหล่นบนเถียงนา|จินตหรา พูนลาภ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J03600.dat
 พื้นที่ทับซ้อน|จินตหรา พูนลาภ ft. กระต่าย พรรณนิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\W\W1065.avi
@@ -36,9 +50,11 @@
 เจ็บคอ|กระต่าย พรรณนิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100021.avi
 เมาแล้วกะคิดฮอด|กระต่าย พรรณนิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100062.avi
 สองลังยังบ่ลืม|กระต่าย พรรณนิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3355.avi
+ตัวละครลับ|กระต่าย พรรณนิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1182.avi
 อดีตเคยพัง|อาม ชุติมา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02514.dat
 บ่ขวางทางอ้าย|อาม ชุติมา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03150.dat
 ที่รักของคนอื่น|อาม ชุติมา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100272.avi
+ไปต่อหรือพอส่ำนี่|อาม ชุติมา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03571.dat
 ภาวะแทรกซ้อน|ออย แสงศิลป์ TMC|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E41433.avi
 ขีดอันตราย|ออย แสงศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03914.dat
 จากไปอย่างสงบ|ออย แสงศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100348.avi
@@ -47,6 +63,9 @@
 นิลันดอน|ต่าย อรทัย , ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z6001.avi
 คนมีคู่ที่อยู่คนเดียว|ต่าย อรทัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101866.avi
 ฮักหลาย | ต่าย อรทัย | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42392.avi
+สิมาฮักหยังตอนนี้|ต่าย อรทัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101908.avi
+ขอฮักอ้ายต่อไปได้บ่|ต่าย อรทัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100009.avi
+เท่าที่ฟ้าเพิ่นให้|ต่าย อรทัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3145.avi
 เจ้าตั๋วว่าฮักอ้าย|มนต์แคนแก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X04100.dat
 วอนหลวงพ่อรวย|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101374.avi
 คำว่าฮักกันมันเหี่ยถิ่มไส|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02828.dat
@@ -55,17 +74,29 @@
 คอยน้องที่ช่องเม็ก|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02827.dat
 มาเด้อฝันเอย|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4783.avi
 อ้ายฮักเขาตอนเจ้าบ่ฮัก | มนต์แคน แก่นคูน | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\W\W1105.avi
+ยังฮักไผอีกได้บ่|มนต์แคน , มีนตรา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z2174.avi
+งานแต่งคนจน|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101754.avi
+เพิ่นบ่แม่นผู้สาวเฮา|มนต์แคน แก่นคูน x ลำเพลิน วงศกร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7379.avi
+อ้ายมาส่งทาง|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z2329.avi
+ฝันอีกครึ่งต้องพึ่งเธอ|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\0\000179.dat
+จังใด๋เจ้ากะเซาฮัก|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101797.avi
+บ่อยากเจอหน้าคู่กรณี|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02920.dat
 ถิ่มอ้ายไว้ตรงนี้ล่ะ|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03610.dat
 อ้ายเก่งกะด้อ|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101696.avi
 มันเป็นย่อนหยัง|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101114.avi
 ไปฮักกันสา|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\A\A91375.avi
 คนบ้านเดียวกัน|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G000694.dat
+ไม่มีข้อแม้ตั้งแต่เริ่มต้น|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X01238.dat
+เอาที่สบายใจ|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42845.avi
+รักแท้บ่ได้แปลว่าโง่|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03089.dat
+หมอนขาดสาดผืนเก่า|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03116.dat
 ก้อนขี้ฟ้า|เต๋า ภูศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03214.dat
 นางฟ้าหน้ารถแห่|เต๋า ภูศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101342.avi
 บ่ไปกรุงเทพได้บ่|เต๋า ภูศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3332.avi
 มนต์รักพระธาตุพนม|เต๋า ภูศิลป์ Feat  ข้าวทิพย์ ธิดาดิน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5880.avi
 เสาหลักของบ้าน แรงงานของนาย|เบียร์ พร้อมพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5809.avi
 ฮักอยู่|เบียร์ พร้อมพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4045.avi
+เงาะเกี้ยวสาว|เบียร์ พร้อมพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z6043.avi
 ปอนปอน ON สตาร์|ตรี ชัยณรงค์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3611.avi
 สมน้ำหน้าเจ้าของ|ตรี ชัยณรงค์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3765.avi
 นะหน้าทอง|โจอี้ ภูวศิษฐ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4911.avi
@@ -80,6 +111,7 @@
 ผ่านมาแค่ให้จำ|ก้านตอง ทุ่งเงิน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E41317.avi
 เว้าบ่ป่อง|ก้านตอง ทุ่งเงิน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1700.avi
 คิดฮอดจังภูลังกา|เวียง นฤมล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4378.avi
+เรวัตตะฮักนะ ลีลาวดี|เวียง นฤมล x เบียร์ พร้อมพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z2214.avi
 งัดถั่งงัด|เต้ย อธิบดินทร์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100527.avi
 ถ้าอ้ายหน้าใหม่|เต้ย อภิวัฒน์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101221.avi
 อยู่บ่ได้|เต้ย อภิวัฒน์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100693.avi
@@ -88,16 +120,18 @@
 รำคาญกะบอกกันเด้อ|ลำเพลิน วงศกร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E41702.avi
 บุญเก่า|ลำเพลิน วงศกร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100885.avi
 หมาวัด|ลำเพลิน วงศกร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X04154.dat
+ห่อหมกฮวกไปฝากป้า|ลำเพลิน วงศกร Feat. เต๊ะ ตระกูลตอ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\W\W1102.avi
 ฮักกันแฮงๆ|เนสกาแฟ ศรีนคร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03950.dat
 หนังเรื่องเก่า|เนสกาแฟ ศรีนคร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3249.avi
 จากใจแฟนเก่า|คะแนน นัจนันท์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03918.dat
 เสียตัวแลกใจ|คะแนน นัจนันท์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42795.avi
 เลิกคุยทั้งอำเภอเพื่อเธอคนเดียว|ลิลลี่ ได้หมดถ้าสดชื่น Feat.เก้า เกริกพล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100826.avi
 หน้าไม่โหดทำไมโสดก็ไม่รู้|ลิลลี่ ได้หมดถ้าสดชื่น|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1443.avi
+ชวนน้องล่องใต้ (ชวนน้องเที่ยวใต้)|ลิลลี่ ได้หมดถ้าสดชื่น|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5855.avi
 คืนนี้ป่ะล่ะ|เจนนี่,เต้ย อภิวัฒน์,ท๊อป มอซ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101462.avi
 ได้หมดถ้าสดชื่น|เจนนี่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03091.dat
-โสดแล้วนะ|น้องเจนนี่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E43050.avi
 รักผิดเวลา|เจนนี่ ได้หมดถ้าสดชื่น|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1196.avi
+โสดแล้วนะ|น้องเจนนี่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E43050.avi
 บุญผลา|ไมค์ ภิรมย์พร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\W\W1049.avi
 ในความคึดฮอดมีแต่เจ้าผู้เดียว|ไมค์ ภิรมย์พร BPM|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E43113.avi
 กลับคำสาหล่า|ไมค์ ภิรมย์พร BPM|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E40123.avi
@@ -106,6 +140,7 @@
 คนใช่เกิดช้า|ศิริพร อำไพพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E40406.avi
 กอดคนนอกใจ|ศิริพร อำไพพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\D\D01574.dat
 ส่งฮักส่งแฮง | ศิริพร อำไพพงษ์ | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\1\10786.dat
+เมียบ่ได้แต่ง|ศิริพร อำไพพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42694.avi
 เมียเก่า|ดอกอ้อ ทุ่งทอง|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\O\O03444.dat
 น้องมีผัวแล้ว|ดอกอ้อ ทุ่งทอง|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X01099.dat
 เบอร์โทรเจ้าชู้|ดอกอ้อ ทุ่งทอง|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\G\G004536.dat
@@ -113,6 +148,8 @@
 เอาหยังเฮ็ดใจ|แมน มณีวรรณ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J04662.dat
 แสดงอาการ|เม้ก อภิสิทธิ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z2754.avi
 ซังคนขี้ตั๋ว | เม้ก อภิสิทธิ์ | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5986.avi
+คนพอกะเทิน|เม้ก อภิสิทธิ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4885.avi
+จังหวะนี้|เม้ก อภิสิทธิ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z8948.avi
 ลืมฮูดซิบ|แอน อรดี|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7939.avi
 รักควรมีสองคน|พร จันทพร Feat.เนย ภัสวรรณ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3240.avi
 ปูหนีบอีปิ|พร จันทพร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E41221.avi
@@ -134,75 +171,38 @@
 ที่พึ่งทางไลน์ | ใบเตย อาร์สยาม Feat. URBOYTJ | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3982.avi
 เจ็บแท้เด้ | บัวขาว บัญชาเมฆ | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3002.avi
 อ้ายดีใจนำเด้อ | เบนซ์ เมืองเลย | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z8529.avi
+คือเก่า|เบนซ์ เมืองเลย X กระต่าย พรรณิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X102031.avi
+เจ็บบ่พอตาย|เบนซ์ เมืองเลย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100023.avi
 จื่อแหน่ใจ | ออยเลอร์ | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\W\W1023.avi
 ชาติหน้าอย่าได้เจอ | เสก เวทมนต์ | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03654.dat
 บ่ออนซอน | เขียว ดวงสดใส | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\B\B04759.dat
 ส่อหล่อแส่แหล่ | ตั๊กแตน ชลดา GMM | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100789.avi
+บ่งึดจักเม็ด|ตั๊กแตน ชลดา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100167.avi
+โคตรเลวในดวงใจ|ตั๊กแตน ชลดา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100020.avi
+โยนใจให้หมากิน|ตั๊กแตน ชลดา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E43031.avi
 สัญญาปลาข่อน | เอกพล มนต์ตระการ | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\C\C03519.dat
 ขอโทษที่ลืมบ่ได้ | พี สะเดิด | K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\F\F02594.dat
-สิมาฮักหยังตอนนี้|ต่าย อรทัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101908.avi
-ยังฮักไผอีกได้บ่|มนต์แคน , มีนตรา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z2174.avi
-ไม่มีข้อแม้ตั้งแต่เริ่มต้น|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X01238.dat
-บ่ต้องการเศษใจ [เหลือแต่หอยกับรอยยิ้ม]|แบม ไพลิน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101494.avi
-แรกตั้งใจฮัก|ปรีชา ปัดภัย.เดอะไทบ้าน2.2|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100398.avi
-งานแต่งคนจน|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101754.avi
-บ่งึดจักเม็ด|ตั๊กแตน ชลดา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100167.avi
-เทพบุตรใจหมา(บักพาก)|ฐา ขนิษ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X04157.dat
-เรวัตตะฮักนะ ลีลาวดี|เวียง นฤมล x เบียร์ พร้อมพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z2214.avi
-ห่อหมกฮวกไปฝากป้า|ลำเพลิน วงศกร Feat. เต๊ะ ตระกูลตอ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\W\W1102.avi
-คนตอบบ่อยู่|เอิ้นขวัญ วรัญญา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100004.avi
-คือเก่า|เบนซ์ เมืองเลย X กระต่าย พรรณิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X102031.avi
-เพิ่นบ่แม่นผู้สาวเฮา|มนต์แคน แก่นคูน x ลำเพลิน วงศกร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7379.avi
-คนกระจอก|บุ๊ค ศุภกาญจน์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4751.avi
-อ้ายมีเหตุผล|เบิ้ล ปทุมราช อาร์สยาม|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02019.dat
-ร้องไห้ได้ไหม|แซ็ค ชุมแพ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5541.avi
-ต้องฮักให้สุดใจ|ป๊อปปี้ ปรัชญาลักษณ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02737.dat
 ฉันกำลังเป็นตัวแทนของใครหรือเปล่า|พี สะเดิด|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\F\F02593.dat
-สายแนนหัวใจ Ots.นาคี2|ก้อง ห้วยไร่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100082.avi
+บ่ต้องการเศษใจ [เหลือแต่หอยกับรอยยิ้ม]|แบม ไพลิน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101494.avi
+เทพบุตรใจหมา(บักพาก)|ฐา ขนิษ|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X04157.dat
+You Let Me Down[คึดนำ]|ฐา ขนิษ ft. ท้าวคำสิงห์ BPM|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E40090.avi
+คนตอบบ่อยู่|เอิ้นขวัญ วรัญญา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100004.avi
+สั่งน้ำตาไม่ได้|เอิ้นขวัญ วรัญญา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02190.dat
+คนกระจอก|บุ๊ค ศุภกาญจน์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4751.avi
+ต้องฮักให้สุดใจ|ป๊อปปี้ ปรัชญาลักษณ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02737.dat
 สวยขยี้ใจ|บ่าวบุ๊ค x ทิดแอม x คำมอส|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z8433.avi
 เขามัทรี|เอ็กซ์ ศุภกฤต|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z9458.avi
-คนพอกะเทิน|เม้ก อภิสิทธิ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4885.avi
 ความรักของยักษ์เขียว[ทศกัณฐ์]|เดี่ยว ไออุ่น|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z8938.avi
-ปลายฟ้า|เบิ้ล x แมน ภิสิทธิ์พงษ์ NoEH|K:\DM MV KARAOKE\Song\EASY KARAOKE\06\606378_1.mp4
-โคตรเลวในดวงใจ|ตั๊กแตน ชลดา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100020.avi
-เอาที่สบายใจ|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42845.avi
 เลาะท่ง [หาแย้ หากิ๊โป่ม กุ๊ดจี่]|น้อง ปลื้ม 5G|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101998.avi
-ขอโอกาสแหน่เด้อ|บอย พนมไพร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101312.avi
-อ้ายมาส่งทาง|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z2329.avi
 ให้บุญนำพา|ไหมไทย หัวใจศิลป์ TopL|K:\DM MV KARAOKE\Song\EASY KARAOKE\03\208702.mp4
-ฝันอีกครึ่งต้องพึ่งเธอ|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\0\000179.dat
 อ้ายมันคนซั่ว|มอส คำหมากบิน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z2597.avi
-เจ็บบ่พอตาย|เบนซ์ เมืองเลย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100023.avi
 ผู้บ่าวเสื้อปุ๋ย|ดิด คิตตี้ NoEH|K:\DM MV KARAOKE\Song\EASY KARAOKE\06\606380_1.mp4
+บักสมองน้อย|ดิด คิตตี้|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7207.avi
+จ่งน้ำตาไว้ถ่าฮั่ว|ดิด คิตตี้|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4119.avi
 สหายสุรา|อ.ไข่ มาลีฮวนน่า X เนสกาแฟ ศรีนคร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4433.avi
 หมอนใบเก่า|อี๊ด ศุภกร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02644.dat
 มันบ่แม่นของง่าย|บิว สงกรานต์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101898.avi
 สีแชทบ่คือเก่า|เบนซ์ ปรีชา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z8436.avi
-เงาะเกี้ยวสาว|เบียร์ พร้อมพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z6043.avi
-บ่อิน|ก้อง ห้วยไร่ NoEH|K:\DM MV KARAOKE\Song\EASY KARAOKE\05\606299_1.mp4
-จังหวะนี้|เม้ก อภิสิทธิ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z8948.avi
 คลื่น|PRAE CHANAA แพร ชนา|K:\DM MV KARAOKE\Song\EASY KARAOKE\04\107806.mp4
-ทุกการแจ้งเตือน|ศาล สานศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100451.avi
-จังใด๋เจ้ากะเซาฮัก|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X101797.avi
-ขอฮักอ้ายต่อไปได้บ่|ต่าย อรทัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\X\X100009.avi
-รักแท้บ่ได้แปลว่าโง่|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03089.dat
-ยื้อ|ปรีชา ปัดภัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7461.avi
-รอสายคนโสด|หญิงลี ศรีจุมพล|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E41581.avi
-ตัวละครลับ|กระต่าย พรรณนิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1182.avi
-โยนใจให้หมากิน|ตั๊กแตน ชลดา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E43031.avi
-เมียบ่ได้แต่ง|ศิริพร อำไพพงษ์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E42694.avi
-น้ำตา|ปรีชา ปัดภัย x กระต่าย พรรณนิภา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7571.avi
-บ่อยากเจอหน้าคู่กรณี|มนต์แคน แก่นคูน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02920.dat
-คำลาแฟนเก่า|ศาล สานศิลป์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z9162.avi
-ไปต่อหรือพอส่ำนี่|อาม ชุติมา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03571.dat
-วิธีบอกเลิก|ก้อง ห้วยไร่|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z1300.avi
-You Let Me Down[คึดนำ]|ฐา ขนิษ ft. ท้าวคำสิงห์ BPM|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\E\E40090.avi
-ขุนช้างฮ้างฮัก|บอย พนมไพร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03057.dat
-เท่าที่ฟ้าเพิ่นให้|ต่าย อรทัย|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z3145.avi
-สั่งน้ำตาไม่ได้|เอิ้นขวัญ วรัญญา|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X02190.dat
-หมอนขาดสาดผืนเก่า|ไผ่ พงศธร|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\X\X03116.dat
-บักสมองน้อย|ดิด คิตตี้|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z7207.avi
-ชวนน้องล่องใต้ (ชวนน้องเที่ยวใต้)|ลิลลี่ ได้หมดถ้าสดชื่น|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5855.avi
-จ่งน้ำตาไว้ถ่าฮั่ว|ดิด คิตตี้|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z4119.avi
 ไปถอนคำสาบาน|ศร สินชัย+ดอกอ้อ ทุ่งทอง+ก้านตอง ทุ่งเงิน|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\VCD\J\J03480.dat
 ลมหนาว|มิน พิณทอง ft.แหม่ม พิมานรัมย์|K:\EXtreme Karaoke\EXtreme Karaoke\Songs\VIDEO\AVI\Z\Z5677.avi
